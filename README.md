@@ -7,7 +7,7 @@ This project focuses on **decision-oriented monitoring** — extracting meaningf
 ---
 
 ## Repository Structure
-
+```text
 cli-system-monitor/
 ├── disk_management.sh
 ├── memory_management.sh
@@ -15,7 +15,7 @@ cli-system-monitor/
 └── logs/
 ├── disk_management.log
 └── processes.log
-
+```
 
 Each script is independent and designed to be executed individually.
 
